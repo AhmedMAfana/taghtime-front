@@ -2,7 +2,7 @@
 
 
 # Getting started with Front-end in localhost
-
+# Dependencies [node -v = 19.* , npm -v 9.6.*]
 ## Installation
 
 Clone the repository
